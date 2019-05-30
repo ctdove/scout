@@ -1,3 +1,0 @@
-C:\Users\carro\source\repos\SCOUT\Recon\obj\Debug\Recon.njsprojAssemblyReference.cache
-C:\Users\carro\source\repos\SCOUT\Recon\obj\Debug\Recon.njsproj.CoreCompileInputs.cache
-C:\Users\carro\source\repos\SCOUT\Recon\bin\Microsoft.NodejsTools.WebRole.dll
